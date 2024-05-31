@@ -1,0 +1,115 @@
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\cinemamangement-1.exe.config
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\cinemamangement-1.exe
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\cinemamangement-1.pdb
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\MySql.Data.dll
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\MySql.Web.dll
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\Google.Protobuf.dll
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\Zstandard.Net.dll
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\Renci.SshNet.dll
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\System.Memory.dll
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\System.Buffers.dll
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\MySql.Data.xml
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\bin\Debug\MySql.Web.xml
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement-1.csproj.AssemblyReference.cache
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement-1.exe.config
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement_1.Form1.resources
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement_1.Properties.Resources.resources
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement-1.csproj.GenerateResource.cache
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement-1.csproj.CoreCompileInputs.cache
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement-1.csproj.CopyComplete
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement-1.exe
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement-1.pdb
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement_1.Form2.resources
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement_1.Form3.resources
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement_1.Form4.resources
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement_1.Form5.resources
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement_1.Form6.resources
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement_1.Form7.resources
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement_1.Form8.resources
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement_1.Form9.resources
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement_1.Form10.resources
+C:\Users\hamzadude1000\source\repos\cinemamangement-1\obj\Debug\cinemamangement_1.Form11.resources
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\cinemamangement-1.exe.config
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\cinemamangement-1.exe
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\cinemamangement-1.pdb
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\MySql.Data.dll
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\MySql.Web.dll
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\Google.Protobuf.dll
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\Zstandard.Net.dll
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\BouncyCastle.Crypto.dll
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\Ubiety.Dns.Core.dll
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\Renci.SshNet.dll
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\System.Memory.dll
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\System.Buffers.dll
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\K4os.Compression.LZ4.dll
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\K4os.Hash.xxHash.dll
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\System.Numerics.Vectors.dll
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\MySql.Data.xml
+F:\4th Semester\Database Theory\database project\cinemamangement-1\bin\Debug\MySql.Web.xml
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement-1.csprojAssemblyReference.cache
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement-1.exe.config
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form1.resources
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form10.resources
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form11.resources
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form2.resources
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form3.resources
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form4.resources
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form5.resources
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form6.resources
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form7.resources
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form8.resources
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form9.resources
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Properties.Resources.resources
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement-1.csproj.GenerateResource.cache
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement-1.csproj.CoreCompileInputs.cache
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement-1.csproj.CopyComplete
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement-1.exe
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement-1.pdb
+F:\4th Semester\Database Theory\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form12.resources
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\bin\Debug\cinemamangement-1.exe.config
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\bin\Debug\cinemamangement-1.exe
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\bin\Debug\cinemamangement-1.pdb
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\bin\Debug\Google.Protobuf.dll
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\bin\Debug\Zstandard.Net.dll
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\bin\Debug\Renci.SshNet.dll
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\bin\Debug\System.Memory.dll
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\bin\Debug\System.Buffers.dll
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\bin\Debug\MySql.Data.xml
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\bin\Debug\MySql.Web.xml
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement-1.csproj.AssemblyReference.cache
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement-1.exe.config
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form1.resources
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form10.resources
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form11.resources
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form12.resources
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form2.resources
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form3.resources
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form4.resources
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form5.resources
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form6.resources
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form7.resources
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form8.resources
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Form9.resources
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement_1.Properties.Resources.resources
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement-1.csproj.GenerateResource.cache
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement-1.csproj.CoreCompileInputs.cache
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement-1.csproj.CopyComplete
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement-1.exe
+C:\Users\Filza Ch\Desktop\database project\cinemamangement-1\obj\Debug\cinemamangement-1.pdb
